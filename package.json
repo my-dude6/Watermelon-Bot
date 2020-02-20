@@ -1,0 +1,13 @@
+{
+ "name": "Watermelon Bot",
+ "description": "Worship the watermelon",
+ "version": "0.0.1",
+ "main": "Watermelon Bot",
+ "scripts": {
+ "start":"node Watermelon Bot",
+ },
+ "dependencies": {
+   "discord.js": "11.1.0
+   "request": 2.81.0"
+  }
+}
