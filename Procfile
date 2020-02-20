@@ -1,1 +1,1 @@
-worker: node bot.js Watermelon Bot
+worker: watermelon bot.js Watermelon Bot
