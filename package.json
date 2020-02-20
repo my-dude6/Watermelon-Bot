@@ -4,7 +4,6 @@
  "version": "0.0.1",
  "main": "Watermelon Bot",
  "scripts": {
- "start":"node bot.js",
  },
  "dependencies": {
    "discord.js": "11.1.0"
